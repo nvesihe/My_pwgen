@@ -2,4 +2,4 @@
 Simple password generator
 
 
-Basic password generator. 
+
